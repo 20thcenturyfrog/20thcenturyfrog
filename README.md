@@ -62,8 +62,8 @@ During my internship at Aviasales, I developed building blocks for the B2B depar
 
 👉🏼 Here are some more cool snippets of the components I've built:
 
-- A service demo registration form built with [React Final Form](https://final-form.org/react) and featuring field validation and URL redirection:<br/><br/>![ezgif-1-dccef71a4d](https://github.com/20thcenturyfrog/20thcenturyfrog/assets/114294885/09560d02-8a33-4b97-9bf9-9ade46f553af)
-- A slider built with [Swiper](https://swiperjs.com/) and featuring different types of slide control (autoplay, swiping, navigation arrows, tabs):<br/><br/>![ezgif-2-4cca04b170](https://github.com/20thcenturyfrog/20thcenturyfrog/assets/114294885/75711935-3e07-43d9-9bc2-b1dbdb2fb133)
+- A service demo registration form built with [React Final Form](https://final-form.org/react) featuring field validation and URL redirection:<br/><br/>![ezgif-1-dccef71a4d](https://github.com/20thcenturyfrog/20thcenturyfrog/assets/114294885/09560d02-8a33-4b97-9bf9-9ade46f553af)
+- A slider built with [Swiper](https://swiperjs.com/) featuring different types of slide control (autoplay, swiping, navigation arrows, tabs):<br/><br/>![ezgif-2-4cca04b170](https://github.com/20thcenturyfrog/20thcenturyfrog/assets/114294885/75711935-3e07-43d9-9bc2-b1dbdb2fb133)
 - An infinite wavy carousel of support chat screens:<br/><br/>![ezgif-4-e71e35384f](https://github.com/20thcenturyfrog/20thcenturyfrog/assets/114294885/20bdec0f-61ca-4b12-af20-d279d89ebc6c)
 
 <hr/>
