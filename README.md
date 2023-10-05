@@ -54,7 +54,7 @@ Nice to see you on my page! My name is Ekaterina Pogorelova and I am an enthusia
 
 ### One of my best projects so far 🏆
 
-During my internship at Aviasales, I developed building blocks for the B2B department landing page. I used React (+ libraries) to build the components and Storybook to implement and test their variations.
+During my internship at Aviasales, I developed building blocks for the B2B department landing page. I used React and TypeScript (+ libraries) to build the components and Storybook to implement and test their variations.
 
 👉🏼 For example, these are some of the banner component variations that may be used to build a custom landing page:
 
