@@ -1,4 +1,4 @@
-### Hi there 👋🏼
+## Hi there 👋🏼
 
 <!--
 **20thcenturyfrog/20thcenturyfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,7 +69,7 @@ During my internship at Aviasales, I developed building blocks for the B2B depar
 
 <hr/>
 
-### Thanks for stopping by! 💫
+## Thanks for stopping by! 💫
 
 Let's connect and chat if you like my projects!
 
