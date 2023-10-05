@@ -22,7 +22,7 @@ Nice to see you on my page! My name is Ekaterina Pogorelova and I am an enthusia
 
 ### About me 👩🏼‍💻
 
-- 🔭 I’m currently working on a budget-tracking app in React/TypeScript
+- 🔭 I’m currently working on a budget-tracking app in React + TypeScript
 - 🌱 I’m currently completing an advanced React hooks course
 - 🤓 I’m eager to learn more about Redux/MobX, Next.js and React Native
 - 💬 Ask me about tech, old music, books and films
