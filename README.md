@@ -24,7 +24,7 @@ Nice to see you on my page! My name is Ekaterina Pogorelova and I am an enthusia
 
 - 🔭 I’m currently working on a budget-tracking app in React + TypeScript
 - 🌱 I’m currently completing an advanced React hooks course
-- 🤓 I’m eager to learn more about Redux/MobX, Next.js and React Native
+- 🤓 I’m eager to learn more about Redux/MobX, Next.js, Vue and React Native
 - 💬 Ask me about tech, old music, books and films
 - ⚡ Fun fact: I'm an avid Wordle player and I want to build a Wordle of my own for one of my next projects!
 
