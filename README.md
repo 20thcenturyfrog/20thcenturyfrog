@@ -38,6 +38,7 @@ Nice to see you on my page! My name is Ekaterina Pogorelova and I am an enthusia
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/> </a>
   <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="storybook" width="40" height="40"/> </a>
   <a href="https://swiperjs.com/" target="_blank" rel="noreferrer"> <img src="https://swiperjs.com/images/swiper-logo.svg" alt="swiper" width="40" height="40"/> </a>
   <a href="https://final-form.org/react" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/34044827?v=4&s=160" alt="react-final-form" width="40" height="40"/> </a>
